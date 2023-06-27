@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/navigation/arrow/left/24</title>
+    <defs>
+        <path d="M11.0290987,17.9134016 L5.8725,12.75 L5.8725,12.75 L21.75,12.75 C22.1642136,12.75 22.5,12.4142136 22.5,12 C22.5,11.5857864 22.1642136,11.25 21.75,11.25 L5.8725,11.25 L5.8725,11.25 L11.0290987,6.08659843 C11.320983,5.79432904 11.3208269,5.32082693 11.02875,5.02875 C10.7367294,4.73672944 10.2632706,4.73672944 9.97125,5.02875 L3.70710678,11.2928932 C3.31658249,11.6834175 3.31658249,12.3165825 3.70710678,12.7071068 L9.97125,18.97125 C10.2632706,19.2632706 10.7367294,19.2632706 11.02875,18.97125 C11.3208269,18.6791731 11.320983,18.205671 11.0290987,17.9134016 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/arrow/left/24" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="icon-color" fill="#1A1A1A" xlink:href="#path-1"></use>
+    </g>
+</svg>

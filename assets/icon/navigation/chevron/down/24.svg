@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/navigation/chevron/down/24</title>
+    <defs>
+        <path d="M5.03025,8.46975 C5.32309899,8.17690101 5.79790101,8.17690101 6.09075,8.46975 L12,14.379 L12,14.379 L17.90925,8.46975 C18.202099,8.17690101 18.676901,8.17690101 18.96975,8.46975 C19.262599,8.76259899 19.262599,9.23740101 18.96975,9.53025 L12.7071068,15.7928932 C12.3165825,16.1834175 11.6834175,16.1834175 11.2928932,15.7928932 L5.03025,9.53025 C4.73740101,9.23740101 4.73740101,8.76259899 5.03025,8.46975 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/navigation/chevron/down/24" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="icon-color" fill="#1A1A1A" xlink:href="#path-1"></use>
+    </g>
+</svg>
